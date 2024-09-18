@@ -51,7 +51,7 @@ section .title{
     position: relative;
     text-align: center;
     font-size: 40px;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 60px;
     padding-bottom: 20px;
     font-family: 'Ubuntu', sans-serif;
@@ -101,7 +101,7 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: rgb(5, 246, 202);
+    color: rgb(5, 245, 141);
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
